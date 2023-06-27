@@ -9,14 +9,14 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
 
   return (
     <nav>
-      <h1 style={{fontSize: "20px"}}>With Love</h1>
-      {/* <button
+      <h1 style={{fontSize: "20px"}}>With Love 🇺🇦 🥰 🇺🇦</h1>
+      <button
         className={libraryStatus ? "library-active" : ""}
         onClick={openLibraryHandler}
       >
         Library
         <FontAwesomeIcon icon={faMusic}></FontAwesomeIcon>
-      </button> */}
+      </button>
     </nav>
   );
 };
