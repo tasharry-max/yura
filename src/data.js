@@ -29,7 +29,7 @@ function chillHop() {
     },
     {
       name: "The grove, the green grove",
-      cover: yura3,
+      cover: yura2,
       artist: "Nazarii Yaremchuk",
       audio: greenGrove,
       color: ["#CD607D", "#c94043"],
